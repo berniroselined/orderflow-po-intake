@@ -1,0 +1,263 @@
+﻿PO 1 (formal) 
+
+
+From: procurement@nusantaraniaga.example
+To: orders@sunbirdgoods.example
+Date: 2 July 2026
+Subject: Purchase Order NN-PO-2026-0701
+
+
+Dear Sunbird Consumer Goods Sales Team,
+
+
+Please accept this purchase order from Nusantara Niaga PT.
+
+
+Purchase Order No.: NN-PO-2026-0701
+Order Date: 2 July 2026
+Requested Delivery Date: 30 July 2026
+Currency: SGD
+
+
+Line 1: Instant Kopi Mix 20s, Quantity 500, Unit Price 6.06
+Line 2: Sambal Chilli Sauce 250ml, Quantity 300, Unit Price 3.34
+Line 3: Coconut Biscuits 200g, Quantity 800, Unit Price 2.10
+
+
+Kindly confirm receipt of this order.
+
+
+Yours sincerely,
+Dewi Anggraini
+Purchasing Manager
+Nusantara Niaga PT
+
+
+PO 2 (messy) 
+
+
+From: orders@klangvalleydist.example
+To: orders@sunbirdgoods.example
+Date: 9 July 2026
+Subject: PO  KVD/2026/0315   pls process
+
+
+hi,
+
+
+PO no  KVD/2026/0315
+from Klang Valley Distribution
+
+
+need the following,,,
+electrolyte sachets 12s   400   @6.83
+Vitamin C Gummies 60s -- 250 -- 11.35
+Herbal Throat Lozenges 24s    qty 600    price 3.28
+citrus dishwash liquid 750ml   350 x 2.98
+
+
+deliver by 5 Aug 2026  to our Port Klang warehouse
+all prices SGD
+
+
+thanks
+Hafiz
+
+
+PO 3 (table made of text) 
+
+
+From: purchasing@siamretailpartners.example
+To: orders@sunbirdgoods.example
+Date: 21 July 2026
+Subject: Purchase Order SRP-26-0188
+
+
+Dear Sunbird team,
+
+
+Purchase Order: SRP-26-0188
+Customer: Siam Retail Partners Co Ltd
+Order date: 21 July 2026
+Delivery date: 25 August 2026
+Currency: SGD
+
+
++----+------------------------------+-----+-----------+
+| No | Item                         | Qty | Unit Price|
++----+------------------------------+-----+-----------+
+| 1  | Collagen Drink Box 10s       | 200 | 14.50     |
+| 2  | Gentle Sunscreen SPF50 100ml | 300 | 8.58      |
+| 3  | Aloe Fresh Body Wash 500ml   | 450 | 4.04      |
+| 4  | Whitening Toothpaste 150g    | 600 | 2.49      |
++----+------------------------------+-----+-----------+
+
+
+Best regards,
+Somchai Wattana
+Procurement, Siam Retail Partners Co Ltd
+
+
+
+
+PO 4 (casual, abbreviations) 
+
+
+From: carlo@manilabaytrading.example
+To: orders@sunbirdgoods.example
+Date: 3 Aug 2026
+Subject: Aug order pls
+
+
+Hi team!
+
+
+Manila Bay Trading here. Pls see our Aug restock below, no PO# yet
+from accounting, will send later.
+
+
+- Ultra Laundry Detergent 2kg - 240 pcs @ 9.30
+- Fabric Softener 1.5L - two hundred pcs @ 5.53
+- Lavender Floor Cleaner 1L - 150 pcs @ 4.20
+
+
+Pls del by 31 Aug 2026 to our Subic WH. Prices in SGD as usual.
+Thx!
+
+
+Carlo
+
+
+PO 5 (formal) 
+
+
+From: purchasing@saigonfresh.example
+To: orders@sunbirdgoods.example
+Date: 12 August 2026
+Subject: Purchase Order SFD-2026-0412
+
+
+Dear Sir/Madam,
+
+
+Saigon Fresh Distribution JSC hereby places the following order.
+
+
+PO Number: SFD-2026-0412
+PO Date: 12 August 2026
+Required Delivery: 10 September 2026
+Currency: SGD
+
+
+Item 1: Jasmine Green Tea 25 bags | Qty: 700 | Price: 3.70
+Item 2: Matcha Latte Powder 15s | Qty: 300 | Price: 5.20
+Item 3: Herbal Shampoo 400ml | Qty: 280 | Price: 4.77
+
+
+Please confirm availability and shipping schedule.
+
+
+Trân trọng,
+Nguyen Thi Lan
+Purchasing Department
+Saigon Fresh Distribution JSC
+
+
+
+
+PO 6 (short, semi-formal) 
+
+
+From: ops@lioncitytrading.example
+To: orders@sunbirdgoods.example
+Date: 18 August 2026
+Subject: PO LCT-2026-0087
+
+
+Hello Sunbird,
+
+
+Please process the following order for Lion City Trading Pte Ltd.
+
+
+PO Number: LCT-2026-0087
+Order Date: 18 August 2026
+Delivery Date: 15 August 2026
+
+
+1) Instant Kopi Mix 20s - 1000 units - SGD 6.06 each
+2) Coconut Biscuits 200g - 1200 units - SGD 2.10 each
+
+
+Regards,
+Marcus Tan
+Operations, Lion City Trading Pte Ltd
+
+
+
+
+PO 7 (messy) 
+
+
+From: gudang@jakartaprima.example
+To: orders@sunbirdgoods.example
+Date: 27 August 2026
+Subject: order JPD-2026-0233
+
+
+Selamat siang,
+
+
+Dari: Jakarta Prima Distribusi PT
+No PO : JPD-2026-0233
+tgl order 27 Aug 2026
+kirim / delivery : 28 Sept 2026
+
+
+sambal chilli sauce 250ml.......600 @ 3.34
+Ultra Laundry Detergent 2kg  320  9.30
+Whitening Toothpaste 150g   500pcs   2.49
+jasmine green tea 25 bags --- 400 --- 3.70
+Herbal Shampoo 400ml  qty300 @4.77
+
+
+harga dalam SGD ya
+
+
+Terima kasih,
+Budi
+
+
+
+
+PO 8 (neat, structured) 
+
+
+From: purchasing@klangvalleydist.example
+To: orders@sunbirdgoods.example
+Date: 15 September 2026
+Subject: Purchase Order KVD/2026/0315
+
+
+Dear Sunbird Consumer Goods,
+
+
+Please find our purchase order details below.
+
+
+Customer:        Klang Valley Distribution
+PO Number:       KVD/2026/0315
+Order Date:      15 September 2026
+Delivery Date:   14 October 2026
+Currency:        SGD
+
+
+1. Herbal Shampoo 400ml          300 units   4.77
+2. Aloe Fresh Body Wash 500ml    350 units   4.04
+3. Lavender Floor Cleaner 1L     200 units   4.20
+4. Fabric Softener 1.5L          250 units   5.53
+
+
+Warm regards,
+Nurul Aisyah
+Procurement, Klang Valley Distribution
