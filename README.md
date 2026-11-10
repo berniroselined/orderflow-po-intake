@@ -12,6 +12,7 @@ Distributors send purchase orders by email in different layouts. Typing them int
 2. **Validation (Python):** nine rules check each order: missing PO number, subject vs body PO number mismatch, duplicate PO number, distributor name spelling variation, sender email mismatch, delivery date before order date, quantity not a number, unknown product, and price more than 5% away from the standard price.
 3. **Storage (SQL):** orders are saved to a SQLite database. Each order is marked clean or needs_review, and each error goes to an exceptions table that acts as a review queue.
 4. **Review app (Streamlit):** a web page where a user pastes one order's JSON and sees the result.
+5. **Process map:** [Current vs improved PO process](OrderFlow_Process_Maps.pdf)
 
 ## Results on my development set
 - 8 fictional POs with 8 planted errors: the checks caught 8 of 8, with 0 false alarms.
